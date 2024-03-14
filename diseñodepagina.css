@@ -1,0 +1,6 @@
+.columnas {
+    display: grid;
+    grid-template-columns: 20% 60% 20%;}   
+.columnas {
+    padding-left: 50%;
+}
